@@ -11,3 +11,7 @@ The creation of temporal tables using EF Core migrations
 Transformation of existing tables into temporal tables, again using migrations
 Querying historical data
 Restoring data from some point in the past
+
+
+
+https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/
