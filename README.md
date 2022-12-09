@@ -15,3 +15,5 @@ Restoring data from some point in the past
 
 
 https://devblogs.microsoft.com/dotnet/prime-your-flux-capacitor-sql-server-temporal-tables-in-ef-core-6-0/
+
+https://www.gencayyildiz.com/blog/entity-framework-core-temporal-tables-ile-calismak/
